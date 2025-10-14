@@ -1,0 +1,151 @@
+City,Hotel Name,Room Type,Room Tariff
+Mumbai,Mumbai Serene Lodge,Executive,3994
+Mumbai,Mumbai Cityscape Hotel,Family,8289
+Mumbai,Mumbai Serene Lodge,Family,4061
+Mumbai,Mumbai Royal Residency,Family,2568
+Mumbai,Mumbai Cityscape Hotel,Family,7488
+Delhi,Delhi Royal Residency,Standard,7485
+Delhi,Delhi Luxury Haven,Executive,6830
+Delhi,Delhi Grand Palace,Family,9268
+Delhi,Delhi Grand Palace,Deluxe,9250
+Delhi,Delhi Royal Residency,Executive,4159
+Bangalore,Bangalore Metro Plaza,Executive,2059
+Bangalore,Bangalore Grand Palace,Standard,6762
+Bangalore,Bangalore Urban Retreat,Executive,9374
+Bangalore,Bangalore Cityscape Hotel,Suite,7787
+Bangalore,Bangalore Elite Stay,Standard,8873
+Chennai,Chennai Cityscape Hotel,Deluxe,2539
+Chennai,Chennai Metro Plaza,Executive,5418
+Chennai,Chennai Luxury Haven,Deluxe,4587
+Chennai,Chennai Royal Residency,Standard,3662
+Chennai,Chennai Grand Palace,Standard,6716
+Kolkata,Kolkata Serene Lodge,Suite,7405
+Kolkata,Kolkata Royal Residency,Deluxe,9647
+Kolkata,Kolkata Elite Stay,Standard,8665
+Kolkata,Kolkata Serene Lodge,Executive,2623
+Kolkata,Kolkata Serene Lodge,Executive,4570
+London,London Metro Plaza,Standard,405
+London,London Comfort Suites,Suite,417
+London,London Urban Retreat,Family,439
+London,London Serene Lodge,Standard,213
+London,London Comfort Suites,Deluxe,354
+New York,New York Metro Plaza,Suite,171
+New York,New York Royal Residency,Standard,293
+New York,New York Metro Plaza,Suite,138
+New York,New York Luxury Haven,Family,225
+New York,New York Cityscape Hotel,Deluxe,225
+Paris,Paris Urban Retreat,Deluxe,184
+Paris,Paris Royal Residency,Suite,336
+Paris,Paris Metro Plaza,Standard,361
+Paris,Paris Comfort Suites,Suite,109
+Paris,Paris Metro Plaza,Standard,463
+Tokyo,Tokyo Grand Palace,Suite,194
+Tokyo,Tokyo Royal Residency,Family,250
+Tokyo,Tokyo Urban Retreat,Family,465
+Tokyo,Tokyo Urban Retreat,Suite,314
+Tokyo,Tokyo Cityscape Hotel,Family,243
+Dubai,Dubai Luxury Haven,Deluxe,172
+Dubai,Dubai Comfort Suites,Executive,179
+Dubai,Dubai Grand Palace,Executive,438
+Dubai,Dubai Royal Residency,Suite,472
+Dubai,Dubai Sunshine Inn,Suite,402
+Hyderabad,Hyderabad Luxury Haven,Suite,2587
+Hyderabad,Hyderabad Comfort Suites,Deluxe,3617
+Hyderabad,Hyderabad Urban Retreat,Family,9618
+Hyderabad,Hyderabad Grand Palace,Executive,2359
+Hyderabad,Hyderabad Luxury Haven,Family,4180
+Pune,Pune Urban Retreat,Suite,2881
+Pune,Pune Elite Stay,Suite,2499
+Pune,Pune Sunshine Inn,Standard,6238
+Pune,Pune Comfort Suites,Family,9445
+Pune,Pune Luxury Haven,Deluxe,6295
+Ahmedabad,Ahmedabad Comfort Suites,Family,5521
+Ahmedabad,Ahmedabad Elite Stay,Deluxe,7592
+Ahmedabad,Ahmedabad Cityscape Hotel,Executive,6523
+Ahmedabad,Ahmedabad Urban Retreat,Deluxe,4514
+Ahmedabad,Ahmedabad Grand Palace,Suite,2766
+Jaipur,Jaipur Serene Lodge,Deluxe,2494
+Jaipur,Jaipur Cityscape Hotel,Family,5536
+Jaipur,Jaipur Serene Lodge,Deluxe,7956
+Jaipur,Jaipur Urban Retreat,Deluxe,5150
+Jaipur,Jaipur Elite Stay,Deluxe,6969
+Lucknow,Lucknow Metro Plaza,Suite,5871
+Lucknow,Lucknow Serene Lodge,Executive,8779
+Lucknow,Lucknow Metro Plaza,Suite,3993
+Lucknow,Lucknow Urban Retreat,Family,8755
+Lucknow,Lucknow Sunshine Inn,Family,7310
+Goa,Goa Metro Plaza,Suite,3581
+Goa,Goa Metro Plaza,Executive,6079
+Goa,Goa Sunshine Inn,Family,2522
+Goa,Goa Serene Lodge,Standard,5525
+Goa,Goa Serene Lodge,Executive,3901
+Surat,Surat Comfort Suites,Executive,5838
+Surat,Surat Luxury Haven,Standard,8480
+Surat,Surat Cityscape Hotel,Suite,4260
+Surat,Surat Sunshine Inn,Standard,6288
+Surat,Surat Serene Lodge,Deluxe,7080
+Nagpur,Nagpur Metro Plaza,Standard,4964
+Nagpur,Nagpur Elite Stay,Standard,2737
+Nagpur,Nagpur Elite Stay,Deluxe,6228
+Nagpur,Nagpur Urban Retreat,Executive,5130
+Nagpur,Nagpur Elite Stay,Family,4706
+Indore,Indore Cityscape Hotel,Standard,7875
+Indore,Indore Elite Stay,Family,6595
+Indore,Indore Cityscape Hotel,Standard,2100
+Indore,Indore Serene Lodge,Standard,7399
+Indore,Indore Royal Residency,Executive,7644
+Bhopal,Bhopal Sunshine Inn,Family,4904
+Bhopal,Bhopal Urban Retreat,Family,9630
+Bhopal,Bhopal Grand Palace,Deluxe,2121
+Bhopal,Bhopal Grand Palace,Deluxe,8911
+Bhopal,Bhopal Comfort Suites,Family,9583
+Singapore,Singapore Elite Stay,Executive,256
+Singapore,Singapore Grand Palace,Family,154
+Singapore,Singapore Metro Plaza,Family,495
+Singapore,Singapore Sunshine Inn,Deluxe,120
+Singapore,Singapore Royal Residency,Standard,393
+Sydney,Sydney Serene Lodge,Standard,388
+Sydney,Sydney Grand Palace,Deluxe,114
+Sydney,Sydney Cityscape Hotel,Executive,448
+Sydney,Sydney Sunshine Inn,Executive,181
+Sydney,Sydney Metro Plaza,Executive,313
+Toronto,Toronto Sunshine Inn,Family,177
+Toronto,Toronto Royal Residency,Executive,432
+Toronto,Toronto Grand Palace,Executive,414
+Toronto,Toronto Urban Retreat,Deluxe,158
+Toronto,Toronto Comfort Suites,Suite,457
+Berlin,Berlin Luxury Haven,Suite,179
+Berlin,Berlin Cityscape Hotel,Deluxe,169
+Berlin,Berlin Serene Lodge,Executive,461
+Berlin,Berlin Royal Residency,Family,171
+Berlin,Berlin Cityscape Hotel,Executive,192
+Bangkok,Bangkok Luxury Haven,Standard,219
+Bangkok,Bangkok Grand Palace,Standard,109
+Bangkok,Bangkok Metro Plaza,Suite,287
+Bangkok,Bangkok Serene Lodge,Executive,264
+Bangkok,Bangkok Comfort Suites,Standard,270
+Hong Kong,Hong Kong Urban Retreat,Suite,325
+Hong Kong,Hong Kong Royal Residency,Suite,390
+Hong Kong,Hong Kong Royal Residency,Family,492
+Hong Kong,Hong Kong Urban Retreat,Executive,293
+Hong Kong,Hong Kong Urban Retreat,Standard,204
+Rome,Rome Luxury Haven,Executive,417
+Rome,Rome Cityscape Hotel,Standard,456
+Rome,Rome Grand Palace,Deluxe,125
+Rome,Rome Metro Plaza,Executive,270
+Rome,Rome Serene Lodge,Suite,374
+Istanbul,Istanbul Comfort Suites,Suite,361
+Istanbul,Istanbul Sunshine Inn,Family,499
+Istanbul,Istanbul Royal Residency,Suite,101
+Istanbul,Istanbul Urban Retreat,Deluxe,405
+Istanbul,Istanbul Luxury Haven,Deluxe,424
+Cape Town,Cape Town Serene Lodge,Standard,354
+Cape Town,Cape Town Urban Retreat,Standard,370
+Cape Town,Cape Town Royal Residency,Standard,296
+Cape Town,Cape Town Luxury Haven,Deluxe,251
+Cape Town,Cape Town Urban Retreat,Suite,152
+Los Angeles,Los Angeles Urban Retreat,Deluxe,329
+Los Angeles,Los Angeles Royal Residency,Deluxe,189
+Los Angeles,Los Angeles Cityscape Hotel,Standard,485
+Los Angeles,Los Angeles Metro Plaza,Family,275
+Los Angeles,Los Angeles Luxury Haven,Family,493
